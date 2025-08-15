@@ -13,6 +13,8 @@ Repositório próprio para verificar o nosso trabalho!
 ## Modelo de Recrutamento
 <img width="1138" height="733" alt="image" src="https://github.com/user-attachments/assets/56574e6d-0612-4164-876e-03fbeb6aecaf" />
 
+## Modelo People Analytics
+<img width="1400" height="785" alt="image" src="https://github.com/user-attachments/assets/01c7aed8-9f3e-41d2-9d6a-fd727e9d88e4" />
 
 
 
