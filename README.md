@@ -10,6 +10,8 @@ Repositório próprio para verificar o nosso trabalho!
 ## Modelo Controle de Estoque
 <img width="1751" height="795" alt="image" src="https://github.com/user-attachments/assets/6c0c7fa8-31db-4a1b-8a8e-ce0ce99d8064" />
 
+## Modelo de Recrutamento
+<img width="1138" height="733" alt="image" src="https://github.com/user-attachments/assets/56574e6d-0612-4164-876e-03fbeb6aecaf" />
 
 
 
