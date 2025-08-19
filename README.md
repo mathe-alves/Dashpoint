@@ -1,6 +1,13 @@
-# Dashpoint
-Repositório próprio para verificar o nosso trabalho!
+<img width="716" height="400" alt="image" src="https://github.com/user-attachments/assets/15427123-47f9-4288-bb13-9e1472807569" />
 
+# Dashpoint
+A Dashpoint é uma empresa especializada em:
+- Design Gráfico
+- BI
+- Marketing
+Oferecendo soluções inovadoras em análise de dados e comunicação visual.
+
+**Alguns dos nossos projetos de BI**
 ## Modelo Financeiro
 <img width="1865" height="794" alt="image" src="https://github.com/user-attachments/assets/e44c343a-17c2-4d79-a6f6-6327cf4ad48f" />
 
