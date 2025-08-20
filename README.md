@@ -25,6 +25,7 @@ Oferecendo soluções inovadoras em análise de dados e comunicação visual.
 <img width="1400" height="785" alt="image" src="https://github.com/user-attachments/assets/01c7aed8-9f3e-41d2-9d6a-fd727e9d88e4" />
 
 ## Modelo Contabilidade
-<img width="572" height="322" alt="image" src="https://github.com/user-attachments/assets/55a3db13-a562-4c3d-bab4-fabd5beef659" />
+<img width="711" height="399" alt="image" src="https://github.com/user-attachments/assets/1ec184be-6366-48ff-8806-585057841326" />
+
 
 
